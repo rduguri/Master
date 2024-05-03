@@ -1,4 +1,4 @@
-/* added new sql comment line 232323*/
+/* added new sql comment line 232323 datta sai prabhakar*/
 CREATE OR REPLACE PROCEDURE `gcp-bia-mle-dev.UPSC_DITK.RTSExpCC_sp_01_Excp_forFraudRerouteRTSAddrScan`()
 BEGIN
 
